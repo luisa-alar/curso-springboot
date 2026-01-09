@@ -8,7 +8,6 @@ class CursoConSpringBootApplicationTests {
 
 	@Test
 	void contextLoads() {
-		int x = 1 / 0; 
 	}
 
 }
